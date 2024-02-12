@@ -1,0 +1,21 @@
+#page-header{
+    background-image: url("/img/banners/b1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 14px;
+    text-align: center;
+}
+#page-header h2{
+    color: #fff;
+    font-size: 30px;
+}
+#page-header p{
+    color: #fff;
+    font-size: 20px;
+}
