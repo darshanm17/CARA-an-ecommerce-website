@@ -19,53 +19,17 @@ CARA - An Ecommerce Website is built using JavaScript, CSS, and HTML. It provide
 - **productdisc.html**: HTML file displaying detailed information about a specific product.
 - **shop.html**: HTML file displaying the list of products available for purchase.
 
-## Folder Structure
-
-CARA-an-ecommerce-website/
-│
-├── css/ # CSS files for styling
-│ ├── style.css # Main CSS file
-│ └── ...
-│
-├── img/ # Image files
-│ ├── product1.jpg # Example product image
-│ └── ...
-│
-├── javascript/ # JavaScript files for functionality
-│ ├── script.js # Main JavaScript file
-│ └── ...
-│
-├── about.html # About page
-├── cart.html # Shopping cart page
-├── index.html # Landing page
-├── productdisc.html # Product details page
-└── shop.html # Product listing page
-
-CARA-an-ecommerce-website/
-│
-├── css/ # CSS files for styling
-│ ├── style.css # Main CSS file
-│ └── ...
-│
-├── img/ # Image files
-│ ├── product1.jpg # Example product image
-│ └── ...
-│
-├── javascript/ # JavaScript files for functionality
-│ ├── script.js # Main JavaScript file
-│ └── ...
-│
-├── about.html # About page
-├── cart.html # Shopping cart page
-├── index.html # Landing page
-├── productdisc.html # Product details page
-└── shop.html # Product listing page
 
 
 ## Getting Started
 
-To get a copy of this project up and running on your local machine, simply clone the repository:
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/darshanm17/CARA-an-ecommerce-website.git
 
-```bash
-git clone https://github.com/darshanm17/CARA-an-ecommerce-website.git
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, feel free to open a pull request.
+
+
+
 
